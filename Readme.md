@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Logger.cs](./CS/App_Code/Logger.cs) (VB: [Logger.vb](./VB/App_Code/Logger.vb))
+* [SampleData.cs](./CS/App_Code/SampleData.cs) (VB: [SampleData.vb](./VB/App_Code/SampleData.vb))
+* [Users.cs](./CS/App_Code/Users.cs) (VB: [Users.vb](./VB/App_Code/Users.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* **[Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))**
+<!-- default file list end -->
 # ASPxSpreadsheet - How to handle cell value changes
 
 
